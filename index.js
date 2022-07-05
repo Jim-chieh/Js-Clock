@@ -25,4 +25,3 @@ setInterval(()=>{
   `translate(-50%,-85%) rotate(${secRotate}deg)`
 
 },1000)
-
